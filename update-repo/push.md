@@ -1,4 +1,5 @@
-# workshop-ntt
+# workshop
 
-Create a new file test.md, write something in it
-git add , git commit then git push.
+- Create a new file first-test.md
+- Write something in it
+- git add , git commit then git push.

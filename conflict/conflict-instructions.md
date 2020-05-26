@@ -1,4 +1,4 @@
-# workshop-ntt
+# workshop
 
 - Create a new branch : Branch naming nomenclature: {{dev-name}}/{{branch-type}}/{{Issue-description}}
 - Edit the content of README.md. Add and commit
